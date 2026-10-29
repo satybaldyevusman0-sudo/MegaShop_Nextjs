@@ -1,0 +1,32 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "npm install",
+      "type": "shell",
+      "command": "npm install --no-audit --no-fund",
+      "presentation": { "reveal": "always", "panel": "shared" },
+      "problemMatcher": []
+    },
+    {
+      // Ctrl+Shift+B — start the dev server without the debugger.
+      "label": "MegaShop: dev server",
+      "type": "shell",
+      "command": "npm run dev",
+      "dependsOn": "npm install",
+      "isBackground": true,
+      "group": { "kind": "build", "isDefault": true },
+      "presentation": { "reveal": "always", "panel": "dedicated" },
+      "problemMatcher": {
+        "pattern": { "regexp": "^x" },
+        "background": { "activesBegins": true, "beginsPattern": "next dev", "endsPattern": "Ready in" }
+      }
+    },
+    {
+      "label": "MegaShop: API тесттер",
+      "type": "shell",
+      "command": "npm run test:api",
+      "problemMatcher": []
+    }
+  ]
+}

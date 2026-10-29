@@ -1,0 +1,244 @@
+{
+  "rate": {
+    "usd": 87.45,
+    "date": "2026-10-27",
+    "source": "https://economist.kg/dengi/2026/10/26/kursy-valyut-27-10-2026/"
+  },
+  "checkedAt": "2026-10-29",
+  "items": [
+    {
+      "id": 78,
+      "usd": 1599,
+      "note": "MacBook Pro 14\" M5, Apple official US price",
+      "source": "https://www.apple.com/newsroom/2025/10/apple-unveils-new-14-inch-macbook-pro-powered-by-the-m5-chip/"
+    },
+    {
+      "id": 103,
+      "usd": 149,
+      "note": "HomePod mini (2nd gen), apple.com",
+      "source": "https://www.apple.com/shop/buy-homepod/homepod-mini"
+    },
+    {
+      "id": 101,
+      "usd": 549,
+      "note": "AirPods Max (USB-C), Apple list price",
+      "source": "https://www.macrumors.com/2026/02/17/amazons-airpods-deals"
+    },
+    {
+      "id": 100,
+      "usd": 129,
+      "note": "AirPods 4, Apple list price",
+      "source": "https://www.macrumors.com/2026/02/17/amazons-airpods-deals"
+    },
+    {
+      "id": 98,
+      "usd": 10250,
+      "note": "Rolex Submariner Date, 2026 US retail",
+      "source": "https://www.loupe.watch/watch-guides/rolex-price-increase-2026"
+    },
+    {
+      "id": 170,
+      "usd": 38995,
+      "note": "2026 Dodge Durango, starting MSRP (USA)",
+      "source": "https://autofinder.com/cars/dodge/durango/2026"
+    },
+    {
+      "id": 168,
+      "usd": 49995,
+      "note": "2026 Dodge Charger, starting price (USA)",
+      "source": "https://www.bertera.com/showroom/index.htm"
+    },
+    {
+      "id": 169,
+      "usd": 29995,
+      "note": "Dodge Hornet, starting price (USA, 2025 model)",
+      "source": "https://www.bertera.com/showroom/index.htm"
+    },
+    {
+      "id": 171,
+      "usd": 42465,
+      "note": "2026 Chrysler Pacifica, starting price (USA)",
+      "source": "https://www.bertera.com/showroom/index.htm"
+    },
+    {
+      "id": 16,
+      "kgs": 120,
+      "note": "Apples, 1 kg — Bishkek average",
+      "source": "https://www.numbeo.com/cost-of-living/in/Bishkek?displayCurrency=KGS"
+    },
+    {
+      "id": 32,
+      "kgs": 90,
+      "note": "Milk, 1 L — Bishkek average",
+      "source": "https://www.numbeo.com/cost-of-living/in/Bishkek?displayCurrency=KGS"
+    },
+    {
+      "id": 38,
+      "kgs": 150,
+      "note": "White rice, 1 kg — Bishkek average",
+      "source": "https://www.numbeo.com/cost-of-living/in/Bishkek?displayCurrency=KGS"
+    },
+    {
+      "id": 23,
+      "kgs": 150,
+      "note": "Eggs, 12 pcs — Bishkek average",
+      "source": "https://www.numbeo.com/cost-of-living/in/Bishkek?displayCurrency=KGS"
+    },
+    {
+      "id": 19,
+      "kgs": 400,
+      "note": "Chicken fillet, 1 kg — Bishkek average",
+      "source": "https://www.numbeo.com/cost-of-living/in/Bishkek?displayCurrency=KGS"
+    },
+    {
+      "id": 17,
+      "kgs": 770,
+      "note": "Beef, 1 kg — Bishkek average",
+      "source": "https://www.numbeo.com/cost-of-living/in/Bishkek?displayCurrency=KGS"
+    },
+    {
+      "id": 35,
+      "kgs": 50,
+      "note": "Potatoes, 1 kg — Bishkek average",
+      "source": "https://www.numbeo.com/cost-of-living/in/Bishkek?displayCurrency=KGS"
+    },
+    {
+      "id": 37,
+      "kgs": 40,
+      "note": "Onions, 1 kg — Bishkek average",
+      "source": "https://www.numbeo.com/cost-of-living/in/Bishkek?displayCurrency=KGS"
+    },
+    {
+      "id": 42,
+      "kgs": 50,
+      "note": "Bottled water, 1.5 L — Bishkek average",
+      "source": "https://www.numbeo.com/cost-of-living/in/Bishkek?displayCurrency=KGS"
+    },
+    {
+      "id": 39,
+      "kgs": 70,
+      "note": "Coca-Cola/Pepsi, 0.33 L — Bishkek average",
+      "source": "https://www.numbeo.com/cost-of-living/in/Bishkek?displayCurrency=KGS"
+    },
+    {
+      "id": 123,
+      "kgs": 40000,
+      "note": "iPhone 13 Pro, used — Bishkek listings 32 000–48 000 сом (Lalafo)",
+      "source": "https://lalafo.kg/bishkek/mobilnye-telefony-i-aksessuary/mobilnye-telefony/apple-iphone/iphone-13-pro"
+    },
+    {
+      "id": 124,
+      "kgs": 10000,
+      "note": "iPhone X, used — Bishkek listings 8 000–13 000 сом (Lalafo)",
+      "source": "https://lalafo.kg/bishkek/mobilnye-telefony-i-aksessuary/mobilnye-telefony/apple-iphone/q-iphone-x-256gb-%D1%86%D0%B5%D0%BD%D0%B0"
+    },
+    {
+      "id": 122,
+      "kgs": 6000,
+      "note": "iPhone 6, used — Bishkek listing ~6 000 сом (Lalafo)",
+      "source": "https://lalafo.kg/bishkek/mobilnye-telefony-i-aksessuary/mobilnye-telefony/apple-iphone/q-%D0%B0%D0%B9%D1%84%D0%BE%D0%BD-6-%D0%B1%D1%83"
+    },
+    {
+      "id": 121,
+      "kgs": 3000,
+      "note": "iPhone 5s, used — Bishkek listings 2 000–3 000 сом (Lalafo)",
+      "source": "https://lalafo.kg/bishkek/mobilnye-telefony-i-aksessuary/mobilnye-telefony/apple-iphone/q-iphone-5s-16gb-%D1%86%D0%B5%D0%BD%D0%B0-%D0%B2-%D0%B1%D0%B8%D1%88%D0%BA%D0%B5%D0%BA%D0%B5"
+    },
+    {
+      "id": 133,
+      "kgs": 10000,
+      "note": "Galaxy S10, used — Bishkek listings 7 000–12 000 сом (Lalafo)",
+      "source": "https://lalafo.kg/bishkek/mobilnye-telefony-i-aksessuary/mobilnye-telefony/samsung/q-samsung-galaxy-s10-%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C"
+    },
+    {
+      "id": 132,
+      "kgs": 4000,
+      "note": "Galaxy S8, used — Bishkek listings 3 000–5 000 сом (Lalafo)",
+      "source": "https://lalafo.kg/bishkek/mobilnye-telefony-i-aksessuary/mobilnye-telefony/samsung/q-samsung-galaxy-s8"
+    },
+    {
+      "id": 128,
+      "kgs": 4000,
+      "note": "Realme C35, used — Bishkek listings 3 200–5 000 сом (Lalafo)",
+      "source": "https://lalafo.kg/bishkek/mobilnye-telefony-i-aksessuary/mobilnye-telefony/realme/realme-c35"
+    },
+    {
+      "id": 131,
+      "kgs": 3000,
+      "note": "Galaxy S7 — ESTIMATE (no exact listing; older than S8 at 3 000–5 000 сом)",
+      "source": "https://lalafo.kg/bishkek/mobilnye-telefony-i-aksessuary/mobilnye-telefony/samsung/q-samsung-galaxy-s7-%D0%B1%D1%83"
+    },
+    {
+      "id": 125,
+      "kgs": 5000,
+      "note": "Oppo A57 — ESTIMATE (no exact listing; similar used Oppo A-series 3 000–5 000 сом)",
+      "source": "https://lalafo.kg/bishkek/mobilnye-telefony-i-aksessuary/mobilnye-telefony/oppo"
+    },
+    {
+      "id": 126,
+      "kgs": 8000,
+      "note": "Oppo F19 Pro+ — ESTIMATE (no exact listing; based on used Oppo prices)",
+      "source": "https://lalafo.kg/bishkek/mobilnye-telefony-i-aksessuary/mobilnye-telefony/oppo"
+    },
+    {
+      "id": 127,
+      "kgs": 4000,
+      "note": "Oppo K1 — ESTIMATE (no exact listing; based on used Oppo prices)",
+      "source": "https://lalafo.kg/bishkek/mobilnye-telefony-i-aksessuary/mobilnye-telefony/oppo"
+    },
+    {
+      "id": 129,
+      "kgs": 6000,
+      "note": "Realme X — ESTIMATE (no exact listing; used Realme 5 000–10 000 сом)",
+      "source": "https://lalafo.kg/bishkek/mobilnye-telefony-i-aksessuary/mobilnye-telefony/realme/used"
+    },
+    {
+      "id": 130,
+      "kgs": 6000,
+      "note": "Realme XT — ESTIMATE (no exact listing; used Realme 5 000–10 000 сом)",
+      "source": "https://lalafo.kg/bishkek/mobilnye-telefony-i-aksessuary/mobilnye-telefony/realme/used"
+    },
+    {
+      "id": 134,
+      "kgs": 5000,
+      "note": "Vivo S1 — ESTIMATE (no exact listing; based on used Vivo prices)",
+      "source": "https://lalafo.kg/bishkek/mobilnye-telefony-i-aksessuary/mobilnye-telefony/vivo/used"
+    },
+    {
+      "id": 135,
+      "kgs": 4000,
+      "note": "Vivo V9 — ESTIMATE (no exact listing; based on used Vivo prices)",
+      "source": "https://lalafo.kg/bishkek/mobilnye-telefony-i-aksessuary/mobilnye-telefony/vivo/used"
+    },
+    {
+      "id": 136,
+      "kgs": 5000,
+      "note": "Vivo X21 — ESTIMATE (no exact listing; based on used Vivo prices)",
+      "source": "https://lalafo.kg/bishkek/mobilnye-telefony-i-aksessuary/mobilnye-telefony/vivo/used"
+    },
+    {
+      "id": 97,
+      "usd": 8950,
+      "note": "Rolex Datejust 41 (126300), retail Sep 2026",
+      "source": "https://watchcharts.com/watch_model/696-rolex-datejust-41-126300/overview"
+    },
+    {
+      "id": 95,
+      "usd": 13410,
+      "note": "Rolex Cellini Date 50519 (discontinued), market price Oct 2026",
+      "source": "https://watchcharts.com/watches/brand/rolex/cellini"
+    },
+    {
+      "id": 96,
+      "usd": 24616,
+      "note": "Rolex Cellini Moonphase 50535 (discontinued), market price Oct 2026",
+      "source": "https://watchcharts.com/watches/brand/rolex/cellini"
+    },
+    {
+      "id": 94,
+      "usd": 2585,
+      "note": "Longines Master Automatic 40mm, listing price (no official retail found)",
+      "source": "https://www.watchpatrol.net/listing/3527537/"
+    }
+  ]
+}
