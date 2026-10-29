@@ -59,3 +59,4 @@ scripts/        seed жана API тесттер
 # MegaShop_Nextjs2
 # MegaShop_usa
 # MegaShop_usa1
+# MegaShop_Nextjs3
