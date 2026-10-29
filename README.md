@@ -57,3 +57,4 @@ scripts/        seed жана API тесттер
 ```
 # MegaShop_Nextjs
 # MegaShop_Nextjs2
+# MegaShop_usa
