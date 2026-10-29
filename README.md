@@ -56,3 +56,4 @@ data/seed.json  баштапкы маалымат (scripts/seed.mjs түзөт)
 scripts/        seed жана API тесттер
 ```
 # MegaShop_Nextjs
+# MegaShop_Nextjs2
